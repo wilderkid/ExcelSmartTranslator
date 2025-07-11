@@ -1,0 +1,2 @@
+# Office_AI_translator
+一个可以使用各种AI翻译的Office插件
