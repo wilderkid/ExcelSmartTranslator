@@ -19,7 +19,7 @@
 ## 📁 步骤一：放置加载文件
 
 1. 下载项目，或者点击[这里](https://github.com/wilderkid/ExcelSmartTranslator/releases)下载 （你只需要 code文件夹下的 Smart Translator.xlam 这个文件）
-2. 定位存储路径（推荐）：
+2. 定位存储路径（推荐），将Smart Translator.xlam 这个文件复制到下面这个文件夹内：
    `C:\Users\用户名\AppData\Roaming\Microsoft\AddIns`
 3. 快捷访问方式：
    `Windows + R → %appdata%\Microsoft\AddIns`
