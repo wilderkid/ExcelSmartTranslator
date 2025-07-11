@@ -21,7 +21,8 @@
 1. 下载项目，或者点击[这里](https://github.com/wilderkid/ExcelSmartTranslator/releases)下载 （你只需要 code文件夹下的 Smart Translator.xlam 这个文件）
 2. 定位存储路径（推荐），将Smart Translator.xlam 这个文件复制到下面这个文件夹内：
    `C:\Users\用户名\AppData\Roaming\Microsoft\AddIns`
-3. 快捷访问方式：
+    ![](./images/save_plug.png)
+4. 快捷访问方式：
    `Windows + R → %appdata%\Microsoft\AddIns`
 
 ## ⚙️ 步骤二：激活加载项
@@ -33,6 +34,7 @@
    - 已放置时：直接勾选插件名称
 3. 验证安装：
    功能区应新增「智能翻译」选项卡
+   ![](./images/load_addins.gif)
 
 ## 🚀 使用教程
 
