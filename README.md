@@ -42,32 +42,32 @@
 
    ![](./images/no_choose_section.png)
 
-   2. 正常选择了选区
+2. 正常选择了选区
 
-      ![selected_section](./images\selected_section.png)
+   ![](./images/selected_section.png)
 
-      3. 选择目标语言后，直接点击**翻译**按钮
+3. 选择目标语言后，直接点击**翻译**按钮
 
-         ![](./images/excute_translation.png)
+   ![](./images/excute_translation.png)
 
-         4. 点击**应用**，结果就会被写入选区
+4. 点击**应用**，结果就会被写入选区
 
-            ![](./images/write_to_section.gif)
+   ![](./images/write_to_section.gif)
 
-         5. 在这之前，你要先配置 API
+5. 在这之前，你要先配置 API
 
-            ![](./images/click_API_button.png)
+   ![](./images/click_API_button.png)
 
-         6. 配置 API
+6. 配置 API
 
-            ![](./images/API_Settting.png)
+   ![](./images/API_Settting.png)
 
-         7.  如果你不想花钱去买chatgpt，也可以在下面找到一些免费的模型
+7.  如果你不想花钱去买chatgpt，也可以在下面找到一些免费的模型
 
-            - [硅基流动](https://cloud.siliconflow.cn/i/5AuicpZd)：注册就有2000万token，还有一些免费的模型给你用
-            - [Gemini](https://aistudio.google.com/app/apikey)：谷歌的顶级大模型，每天都有免费额度
-            - [魔搭社区](https://modelscope.cn/my/myaccesstoken)： 开源社区，每天2000次免费额度
-            - [智谱](https://open.bigmodel.cn/usercenter/proj-mgmt/apikeys)：免费模型给你用，量大管饱
+   - [硅基流动](https://cloud.siliconflow.cn/i/5AuicpZd)：注册就有2000万token，还有一些免费的模型给你用
+   - [Gemini](https://aistudio.google.com/app/apikey)：谷歌的顶级大模型，每天都有免费额度
+   - [魔搭社区](https://modelscope.cn/my/myaccesstoken)： 开源社区，每天2000次免费额度
+   - [智谱](https://open.bigmodel.cn/usercenter/proj-mgmt/apikeys)：免费模型给你用，量大管饱
 
 
 ## ⚙ 技术构思
